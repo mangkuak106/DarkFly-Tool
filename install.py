@@ -1,10 +1,10 @@
 #!/usr/bin/python
 
 """
-Author             : Ms.ambari
-contact            : ambari.developer@gmail.com
-Github             : https://github.com/Ranginang67
-my youtube channel : Ms.ambari
+Author             : Farhan Al-Hakim
+contact            : fah106904@gmail.com
+Github             : https://github.com/mangkuak106
+my youtube channel : Mr.ambari
 
 subcribe my youtube Channel to learn ethical Hacking ^_^
 """
